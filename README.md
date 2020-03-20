@@ -19,6 +19,7 @@ Unity:
 - Create a new empty Unity 3D Project
 - Import the package (vrglove-full.unitypackage) located in the unity/package folder
 - In project settings, set .NET Framework from 2.0 to 4.X
+- Open "Hand Scene" from Assets/Scenes
 - Click on the serial game object and set the variable portName to the port the arduino is connected to
 
 
